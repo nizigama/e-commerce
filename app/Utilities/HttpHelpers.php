@@ -4,7 +4,6 @@ use App\Exceptions\BadRequestException;
 use App\Exceptions\ForbiddenException;
 use App\Exceptions\NotFoundException;
 use App\Exceptions\UnknownException;
-use Exception;
 use Illuminate\Http\Response;
 
 /**
