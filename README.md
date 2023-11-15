@@ -43,8 +43,3 @@ To run the tests, run:
 ```
 vendor/bin/sail artisan test
 ```
-
-
-
-### Note
-Apologies for the unrealistic git log history, I kind of worked on the project in a chaotic way which would have generated a huge amount of unecessary commits. I therefore decided to delete all the previous commits I had done and create new ones which of course don't reflect the progress of the development.
